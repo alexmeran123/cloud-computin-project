@@ -1,8 +1,7 @@
 # cloud-computin-project
 
-Task management application, Meran Eugen-Alexandru
+Task management application, Meran Eugen-Alexandru, 1132
 
-Proiect realizat de Eugen-Alexandru Meran, 1132
 
 1. Acest proiect foloseste ca tehnologii MERN stack(MONGODB, EXPRESSJS, REACT, NODE) si reprezinta o aplicatie in care se manageuiesc task-uri, asemanator cu aplicatii precum Jira, Trello, dar mai lightweight.
 
