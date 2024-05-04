@@ -116,7 +116,7 @@ De asemnea, aplicatia foloseste 3 SERVICII cloud:
 
 1. Foloseste atlas DB pentru a stoca remote baza de date MongoDB in clustere remote.
 
-2. Foloseste Clodinary, pentru a stoca in cloud imaginile din detalii task-urilor, pe baza listei de url-uri din entitatea de TASK, care este identificata ca field-ul *attachments* in schema de mongoose: 
+2. Foloseste Cloudinary, pentru a stoca in cloud imaginile din detalii task-urilor, pe baza listei de url-uri din entitatea de TASK, care este identificata ca field-ul *attachments* in schema de mongoose: 
 
 const taskSchema = new mongoose.Schema(
     {
